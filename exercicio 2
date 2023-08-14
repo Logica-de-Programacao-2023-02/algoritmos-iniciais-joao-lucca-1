@@ -1,0 +1,9 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+1- Início 
+2- Celsius = C
+3- Fahrenheit = F
+4- Leia qual a unidade e qual letra que se foi denominada 
+5- Se C converta para F
+6- Se F converta para C
+7- Fim-se
+8- Fim
